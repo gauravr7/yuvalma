@@ -1,2 +1,2 @@
-# yuvalma
+# Yuvalma
 Yuva Alumni Site
